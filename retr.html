@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>GET VALUES!</title>
+  </head>
+  <body>
+    <h2>Enter the Phone Number To serach</h2>
+    <input type="text" id="user" name="user" required="required"><br>
+    <button type="button" onClick="getdata();" name="Submit">Search</button>
+    <p>Name:<strong id="name"></strong></p>
+
+  <script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-database.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.17.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAHTTvEvxeUkhbXSgbZhBK84JMTFSq6iik",
+    authDomain: "united-website-2bfda.firebaseapp.com",
+    databaseURL: "https://united-website-2bfda.firebaseio.com",
+    projectId: "united-website-2bfda",
+    storageBucket: "united-website-2bfda.appspot.com",
+    messagingSenderId: "384473943851",
+    appId: "1:384473943851:web:63439aa5e607a5bbec3f6e",
+    measurementId: "G-LW21S76W5K"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+  <script type="text/javascript" src="retr.js"></script>
+  </body>
+</html>

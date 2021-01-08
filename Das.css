@@ -1,0 +1,424 @@
+#log
+{
+  height:80px;
+
+}
+#logs
+{
+  height:150px;
+}
+#cl
+{
+  font-family: 'Teko', sans-serif;
+  font-size:18px;
+  color:#ffff;
+  space: nowrap;
+
+}
+#bh
+{
+
+  color:#ffff;
+
+}
+#hg
+{
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(mjk.jpg);
+  background-resition: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height-:1200px;
+}
+
+
+#gf
+{
+  color: #ffff;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  word-spacing:3px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+}
+
+#gfu
+{
+  color: #ffff;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  word-spacing:3px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+
+}
+#lio
+{
+  margin-top:50px;
+  margin-left:-197px;
+  color:#ffff;
+  font-size:10px;
+}
+#btn
+{
+  border-radius: 20px;
+  padding: 10px;
+ margin-left:350px;
+  font-family: 'Arvo', serif;
+
+
+
+}
+#btn1
+{
+  border-radius: 20px;
+  padding: 20px;
+  padding:10px 30px;
+  margin-left:10px;
+  font-family: 'Arvo', serif;
+
+
+
+}
+.nav-link:hover{
+    border-bottom: 2px red solid;
+    transition: 0.6s;
+}
+#hd
+{
+  text-align:center;
+  font-family: 'IBM Plex Serif', serif;
+
+}
+#sch
+{
+  height: 70px;
+}
+#ki
+{
+  padding-left:-10px;
+  font-family: 'Arvo', serif;
+  font-weight: 400;
+
+
+}
+#jus
+{
+  text-align: justify;
+  line-height:150%;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 900;
+
+}
+#ik
+{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Arvo', serif;
+}
+#po
+{
+  border: 1px red solid;
+  border-radius:50%;
+  display: inline-block;
+  height:50px;
+  width:50px;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 700;
+
+}
+#ci
+{
+  font-family: 'IBM Plex Serif', serif;
+}
+.sea
+{
+  background-image: linear-gradient(rgba(0,0,0,0.11),rgba(0,0,0,1)),url(nm.jpg);
+  background-size: cover;
+  height:1300px;
+  padding-left:220px;
+}
+#as
+{
+  font-family: 'Cinzel', serif;
+  font-weight:bolder;
+}
+#cda
+{
+  height:430px;
+  margin-left: 200px;
+  margin-top:-350px;
+
+
+}
+#re
+{
+  border-radius:15px;
+  border: 2px solid #a30000;
+  height:50px;
+  width:50px;
+  text-align: center;
+  margin-left:400px;
+  display: inline-block;
+  font-size:20px;
+}
+#gh
+{
+  height: 150px;
+  margin-left:70px;
+}
+#par
+{
+  text-align:justify;
+  color:#ffff;
+  font-family: 'Orbitron', sans-serif;
+  font-size:15px;
+  word-spacing:2px;
+  letter-spacing:2px;
+}
+#def
+{
+  border-radius:50%;
+  height:300px;
+  width:250px;
+  float:left;
+}
+#we
+{
+  color:#ffff;
+  font-size:20px;
+  text-align:justify;
+  word-spacing:1px;
+  line-height:140%;
+  font-family: 'Josefin Slab', serif;
+  font-weight:700;
+
+}
+#tag{
+  text-align:center;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 700;
+
+
+
+
+}
+#sa
+{
+  text-align: justify;
+  font-family: 'Arvo', serif;
+  line-height:140%;
+  letter-spacing:0.5px;
+  word-spacing:0.5px;
+
+}
+#gds{
+  height:320px;
+  width:320px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:20px;
+  border-radius: 50%;
+
+}
+#saa
+{
+  text-align: justify;
+  font-family: 'Arvo', serif;
+  line-height:140%;
+  letter-spacing:1px;
+  word-spacing:0.5px;
+
+
+
+}
+#saq
+{
+  text-align: center;
+}
+#lol
+{
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,1)),url(jnh.jpg);
+  background-position:center;
+  background-repeat: no-repeat;
+  min-height:500px;
+
+}
+#gal
+{
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  color:#fff;
+
+
+}
+#dfr
+{
+  height:300px;
+  border:2px yellow solid;
+}
+#dsd
+{
+  height:100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#dfc
+{
+  color:#fff;
+  line-height:100%;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 900;
+  text-align: justify;
+  padding-bottom:50px;
+  margin-top:10px;
+
+}
+#sw
+{
+  text-align: center;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight:900;
+
+
+}
+#poi
+{
+  height:100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#xc
+{
+  text-align: justify;
+  font-family: 'Orbitron', sans-serif;
+
+}
+#xco
+{
+  text-align:center;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 700;
+
+
+}
+#fgt
+{
+  height:30px;
+}
+#xcm
+{
+  text-align: justify;
+    font-family: 'Arvo', serif;
+    font-size:15px;
+    font-family: 'Tomorrow', sans-serif;
+}
+#ws
+{
+    font-family: 'IBM Plex Serif', serif;
+    text-align: center;
+    font-weight: bolder;
+}
+#foot
+{
+  background:linear-gradient(transparent,transparent,#001011);
+  background:rgba(0, 16, 17,0.9);
+}
+.footer-nav,li
+.social-links,li
+{
+  display:inline-block;
+  padding:10px;
+
+
+}
+.hoverover:hover{
+    border-bottom: 2px red solid;
+}
+.footer-nav
+{
+  float:left;
+  font-family: 'Teko', sans-serif;
+  font-size:20px;
+}
+.social-links
+{
+  float:right;
+}
+
+#tr
+{
+  color:#ffff;
+
+}
+#tro
+{
+  color:#ffff;
+  text-align: center;
+  font-family: 'Staatliches', cursive;
+
+}
+#lowa
+{
+  height:100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tros
+{
+  color:#ffff;
+  text-align: center;
+  font-family: 'Cinzel Decorative', cursive;
+
+}
+#mak{
+    font-family: 'Antic Slab', serif;
+    color:red;
+    font-size:30px;
+}
+#sign
+{
+  height:100px;
+}
+#jku
+{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 20px;
+    font-weight: bolder;
+    line-transform:uppercase;
+}
+#reg{
+  border-radius:20px;
+  display:block;
+  margin-right:auto;
+  margin-left: auto;
+  text-transform: uppercase;
+  color:red;
+  font-weight: bolder;
+
+
+}
+#ol
+{
+  border-radius: 25px;
+}
+#ty
+{
+  color:Black;
+  font-family: 'Bowlby One SC', cursive;
+
+}
+form
+{
+  float:left
+
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+    <link rel="stylesheet" href="stylea.css">
+    <title></title>
+  </head>
+  <body>
+  <video id="slider" autoplay muted loop>
+    <source src="Video1.mp4" type="video/mp4">
+      </video>
+      <ul class="navigation">
+        <li onclick="videoUrl('Video1.mp4')"><img src="thumb1.jpg"></li>
+          <li onclick="videoUrl('Video1.mp4')"><img src="thumb1.jpg"></li>
+            <li onclick="videoUrl('Video1.mp4')"><img src="thumb1.jpg"></li>
+              <li onclick="videoUrl('Video1.mp4')"><img src="thumb1.jpg"></li>
+
+      </ul>
+      <script type="text/javascript">
+        function videoUrl(hmmm){
+          document.getElementById("slider").src=hmmm;
+        }
+
+      </script>
+
+  </body>
+</html>
